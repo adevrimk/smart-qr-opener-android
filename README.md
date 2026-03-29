@@ -1,5 +1,7 @@
 # Smart QR Opener
 
+[![Android CI](https://github.com/adevrimk/smart-qr-opener-android/actions/workflows/android-ci.yml/badge.svg)](https://github.com/adevrimk/smart-qr-opener-android/actions/workflows/android-ci.yml)
+
 Android-only QR scanner and smart opener.
 
 ## Requirements
