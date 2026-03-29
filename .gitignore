@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local environment
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Kotlin / Android
+.kotlin/
+captures/
+.externalNativeBuild/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
